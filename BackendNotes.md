@@ -1,4 +1,4 @@
-# Study Mates - Tinder-like Application for Finding Study Partners
+# Study Mates - Application for Finding Study Partners
 
 ## Backend Architecture
 
